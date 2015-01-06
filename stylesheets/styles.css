@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
@@ -99,6 +98,7 @@ header {
   width:270px;
   float:left;
   position:fixed;
+	padding-top: 50px;
 }
 
 header ul {
@@ -264,4 +264,8 @@ footer {
 
 .experience{
 	margin: 5px 0;
+}
+
+.job-section {
+	padding-top: 50px;
 }
